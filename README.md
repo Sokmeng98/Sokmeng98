@@ -1,11 +1,11 @@
 <div>
 
 <div>
-  <a href="https://chrisvan.netlify.app">
+<!--   <a href="https://chrisvan.netlify.app">
     <img align="left" alt="Chris Van's Website" width="28px" src="https://chrisvan.netlify.app/_nuxt/img/logo.83ff3bb.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/vansenhengmeanrith">
-    <img align="left" alt="Chris Van's LinkedIn" width="28px" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/6bbbd5920d81c10bf92a22005fbcd81e9195a082/src/apps_linkedin.svg" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/pechsokmeng">
+    <img align="left" alt="Sokmeng Pech's LinkedIn" width="28px" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/6bbbd5920d81c10bf92a22005fbcd81e9195a082/src/apps_linkedin.svg" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
       <img align="left" src="https://komarev.com/ghpvc/?username=chrislegaxy&style=for-the-badge">
@@ -85,30 +85,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Chris Van" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
--->
-
-<!-- Dev Card -->
-<a href="https://app.daily.dev/chrislegaxy">
- <img align="right" src="https://api.daily.dev/devcards/1dbcf6774a3f40f9bf01820030a93501.png?r=hgy" width="250" alt="Chris Legaxy's Dev Card"/>
-</a>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<!-- Streak Card -->
-<a href="https://app.daily.dev/chrislegaxy">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ChrisLegaxy&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="Chris Legaxy's Streak Card"/>
-</a>
-
