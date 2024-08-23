@@ -17,7 +17,7 @@
 <br />
 <br />
 
-#### Hello, I'm [Senheng/Chris](https://chrisvan.netlify.app), a passionate self-taught <i>Full Stack Web Developer</i> & <i>Project Manager</i>. 
+#### Hello, I'm [Pech Sokmeng](), a passionate self-taught <i>Full Stack Web Developer</i> & <i>Project Manager</i>. 
 
 Over the past few years, I have focused on improving my skills in web development such as involving myself with the latest technologies like **Nest JS, Vue/Nuxt 3, GraphQL, SSG/SSR, Docker/Kubernetes, CI/CD.** I have managed, designed & developed projects for clients with various different needs ranging from **Landing Websites to Enterprise Systems.**
 
@@ -38,8 +38,8 @@ Over the past few years, I have focused on improving my skills in web developmen
 <br />
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@chrisvan](mailto://chrisvan.vshmr@gmail.com);
-- 📝 [Resume](https://chrisvan.netlify.app/Chris-VAN_CV.pdf)
+- 📫 How to reach me: [@Pechsokmengpsm](mailto://pechsokmengpsm@gmail.com);
+- 📝 [Resume]()
 
 </div>
 
