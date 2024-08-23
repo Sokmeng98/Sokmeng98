@@ -30,7 +30,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 <!-- My GitHub's Stats -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chrislegaxy&show_icons=true&theme=radical&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sokmeng98&show_icons=true&theme=radical&count_private=true" />
 
 
 <br />
