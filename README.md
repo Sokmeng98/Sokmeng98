@@ -51,7 +51,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 <br />
 
 <!-- Most Used Technology -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislegaxy&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokmeng98&layout=compact&theme=radical" />
 
 <br />
 <br />
