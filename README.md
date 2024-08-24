@@ -17,10 +17,9 @@
 <br />
 <br />
 
-#### Hello, I'm [Pech Sokmeng](), a passionate self-taught <i>Full Stack Web Developer</i> & <i>Project Manager</i>. 
+#### Hello, I'm [Pech Sokmeng](https://sokmeng.vercel.app), a passionate self-taught <i>Full Stack Web Developer</i>. 
 
-Over the past few years, I have focused on improving my skills in web development such as involving myself with the latest technologies like **Nest JS, Vue/Nuxt 3, GraphQL, SSG/SSR, Docker/Kubernetes, CI/CD.** I have managed, designed & developed projects for clients with various different needs ranging from **Landing Websites to Enterprise Systems.**
-
+Over the past few years, I have dedicated myself to enhancing my expertise in web development, actively engaging with the latest technologies such as **React.js, Vue.js/Nuxt 3, React-Native and Node.js.**
 </div>
 
 <br />
@@ -39,7 +38,7 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Pechsokmengpsm](mailto://pechsokmengpsm@gmail.com);
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/1DuyjAbR7N1sHFaLlTPL6oP04S7UKmcCf/view?usp=sharing)
 
 </div>
 
@@ -58,15 +57,11 @@ Over the past few years, I have focused on improving my skills in web developmen
 
 #### Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo-small.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/20979b327688c53075609a26ac66a25e4f59e8bb/96b62/logos/nuxt-emoji-white.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <hr>
