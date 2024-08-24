@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<img align="right" src="https://i.pinimg.com/originals/10/ee/98/10ee98130fcb4261135dce02f701518a.jpg" width="175" height="175" object="cover" />
+<img align="right" src="https://i.pinimg.com/736x/32/a1/da/32a1da970e70c746a449b5cccabaeff5.jpg" width="175" />
   
 <br />
 <br />
