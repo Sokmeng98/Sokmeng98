@@ -8,7 +8,7 @@
     <img align="left" alt="Sokmeng Pech's LinkedIn" width="28px" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/6bbbd5920d81c10bf92a22005fbcd81e9195a082/src/apps_linkedin.svg" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-      <img align="left" src="https://komarev.com/ghpvc/?username=Sokmeng98&style=for-the-badge">
+      <img align="left" src="https://komarev.com/ghpvc/?username=sokmeng98&style=for-the-badge">
   </a>
 </div>
 
