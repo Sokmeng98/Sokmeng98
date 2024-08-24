@@ -1,5 +1,4 @@
-<div>
-  
+
 <div>
   <a href="https://www.linkedin.com/in/pechsokmeng">
     <img align="left" alt="Sokmeng Pech's LinkedIn" width="28px" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus_icons/6bbbd5920d81c10bf92a22005fbcd81e9195a082/src/apps_linkedin.svg" />
@@ -9,7 +8,7 @@
   </a>
 </div>
 
-<img align="right" src="https://i.pinimg.com/originals/91/d3/05/91d305ed89c3261b75d05514c81c9885.png" width="175" />
+<img align="right" src="https://i.pinimg.com/originals/10/ee/98/10ee98130fcb4261135dce02f701518a.jpg" width="175" height="175" object="cover" />
   
 <br />
 <br />
